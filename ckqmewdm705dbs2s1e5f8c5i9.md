@@ -268,6 +268,11 @@ Finally, we were able to keep the child from being bothered by unnecessary knock
 
 I hope this helped you understand W3H - What | Why | When | How to use `React.useCallback`.
 
+### References
+- https://reactjs.org/docs/hooks-reference.html#usecallback
+- https://reactjs.org/docs/react-api.html#reactmemo
+- https://kentcdodds.com/blog/usememo-and-usecallback
+
 *Cover Photo by <a href="https://unsplash.com/@igorstarkoff?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Igor Starkov</a> on <a href="https://unsplash.com/s/photos/kid-room?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
   
 
