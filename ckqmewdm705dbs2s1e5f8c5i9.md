@@ -8,6 +8,18 @@ But almost no one could explain -
 - When should it be used?
 - How should it be used?
 
+Let's look at an example to see if we can grasp Why, When and How.
+
+### Defining a problem
+We have a house with a playroom for the kids. Eat, watch TV, work, and sleep are all activities that parents engage in. Parents make child eat, play, and sleep. When the child is finished eating, playing, or sleeping, he or she should notify the parents. But the child is a child, and it cries every time a door of playroom is knocked.
+
+Our goal is to stay as far away from knocking on doors as possible.
+
+**Note: Re-rending kid's room (component) === Knocking its door
+**
+
+We'll start with definitions.
+
 As per [React Docs](https://reactjs.org/docs/hooks-reference.html#usecallback) - 
 
 #### useCallback
@@ -40,17 +52,10 @@ There's a lot to take in and remember in this section. It provides answers to th
 - Why should you use it? -> to prevent unnecessary renders
 - When should it be used? -> when passing callbacks to optimized child components
 
-The documentation does not provide a detailed answer to the question - How should it be used?
+The documentation does not provide a detailed answer to the question - How should it be used? We'll get to it as we implement a solution to our defined problem.
 
-Let's look at an example to see if we can grasp it.
+It's now time to keep the child from being bothered by unnecessary knocks on the door. Let's get started.
 
-### Defining a problem
-We have a house with a playroom for the kids. Eat, watch TV, work, and sleep are all activities that parents engage in. Parents make child eat, play, and sleep. When the child is finished eating, playing, or sleeping, he or she should notify the parents. But the child is a child, and it cries every time a door of playroom is knocked.
-
-Our goal is to stay as far away from knocking on doors as possible.
-
-**Note: Re-rending kid's room (component) === Knocking its door
-**
 #### Step 1: A House with Parents who can eat, work, watch TV and sleep
 
 ``` javascript
