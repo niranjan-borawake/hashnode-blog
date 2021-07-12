@@ -14,6 +14,8 @@ I haven't written much. Writing is difficult. It's even more difficult to write 
 
 %[https://twitter.com/naval/status/808830209684307968?s=20]
 
+%[https://twitter.com/oliverjumpertz/status/1414557581096493060?s=19]
+
 ### Blogs
 
 - [Why You Should Write](https://perell.com/essay/why-you-should-write/) by [David Perell](https://twitter.com/david_perell)
