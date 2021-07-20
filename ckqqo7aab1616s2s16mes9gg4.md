@@ -24,6 +24,8 @@ By @OliverJumpertz
 
 - [How to Get Started (and Keep Going!) as a Blogger](https://blog.sycamore.design/start-blogging) by @[Sam Sycamore](@tanoaksam).
 
+- [Programmers That Don't Blog Should Start Right Now](https://adriantwarog.com/programmers-that-dont-blog-should-start-right-now) by @adriantwarog
+
 
 __________________________________________________________________________________________
 
