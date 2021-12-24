@@ -26,6 +26,8 @@ By @OliverJumpertz
 
 - [Programmers That Don't Blog Should Start Right Now](https://adriantwarog.com/programmers-that-dont-blog-should-start-right-now) by @adriantwarog
 
+- [Blogging: How and Why You Should Do It](https://balapriyac.hashnode.dev/blogging-how-and-why-you-should-do-it) by @[Bala Priya C](@balapriyac)
+
 
 __________________________________________________________________________________________
 
