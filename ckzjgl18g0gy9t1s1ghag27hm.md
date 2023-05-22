@@ -1,4 +1,12 @@
-## The Cat Trick On My 5yo
+---
+title: "The Cat Trick On My 5yo"
+datePublished: Sat Feb 12 2022 06:29:36 GMT+0000 (Coordinated Universal Time)
+cuid: ckzjgl18g0gy9t1s1ghag27hm
+slug: the-cat-trick-on-my-5yo
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/zq5g89F1hzY/upload/v1644643067121/3vjzg34LR.jpeg
+tags: tricks, personal, experience
+
+---
 
 This wasn't a typical Sunday morning. We were all on vacation and staying at our relatives. It all started when my 5-year-old son refused to eat breakfast. That isn't surprising, because it has been happening on a fairly frequent basis. But this time it was important for two reasons: first, he had skipped dinner the night before, and second, we were scheduled to return to our house, which would be an 8-hour drive. He would eat all the junk stuff in the car if he didn't have breakfast.
 
