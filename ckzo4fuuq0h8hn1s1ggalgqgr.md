@@ -1,4 +1,12 @@
-## Strange Interview Experience
+---
+title: "Strange Interview Experience"
+datePublished: Tue Feb 15 2022 12:48:30 GMT+0000 (Coordinated Universal Time)
+cuid: ckzo4fuuq0h8hn1s1ggalgqgr
+slug: strange-interview-experience
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/9emAQvCJQ4c/upload/v1644929128663/tP1tpLq_W.jpeg
+tags: interview, personal, experience, technical-interview
+
+---
 
 This was my first time participating in a hiring drive.
 
