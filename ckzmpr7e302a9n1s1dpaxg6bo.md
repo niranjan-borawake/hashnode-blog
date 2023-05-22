@@ -1,4 +1,12 @@
-## A Friendly Kidnap
+---
+title: "A Friendly Kidnap"
+datePublished: Mon Feb 14 2022 13:09:39 GMT+0000 (Coordinated Universal Time)
+cuid: ckzmpr7e302a9n1s1dpaxg6bo
+slug: a-friendly-kidnap
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1644841450531/hlUntbgc8.jpeg
+tags: personal, experience
+
+---
 
 It had been around two years since I had relocated from Pune to Mumbai for work. It was difficult to catch up with my engineering friends in Pune after the transfer. Nonetheless, I made every effort to visit Pune at least once every two months.
 
